@@ -1,0 +1,29 @@
+input[type=text]{
+    border-radius:30px;
+}
+input:focus{
+    outline: none;
+    
+}
+
+button{
+    width:40px;
+    height:40px;
+    border-radius: 70%;
+    border: 1px solid red;
+    background-color: #40BB94;
+}
+
+label{
+    color:#59C2D1;
+}
+
+a{
+    text-decoration: none;
+    font-style: italic;
+    font-size: 30px;
+}
+#calculate_age_btn{
+    height :25px;
+    border-radius:30px;
+}
